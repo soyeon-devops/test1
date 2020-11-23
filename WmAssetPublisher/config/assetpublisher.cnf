@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <value name="is_hostname">DESKTOP-B0T4MQE</value>
+    <value name="is_identifier">11815678-bff0-4af8-8d16-21df7d23f794</value>
+    <value name="library_username"></value>
+    <value name="library_url"></value>
+  </record>
+</IDataXMLCoder>
